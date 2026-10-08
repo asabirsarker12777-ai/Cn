@@ -8,3 +8,6 @@ http://51.75.127.199:3141/disneychannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Nick.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original", Nick  
 http://103.238.115.159:8080/dd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Sony_Aath_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", Sony AATH
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/576/576.m3u8?hdntl=Expires=1791527942~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWVjNmNlMjYtZmRhNy00ODE0LWI0NmEtOTg0NDRkNWVhMjBmIn0~Signature=AVek5_jEwpcqqBRY3FYRet0_K5jrdl2Amd0AdzH7oMhpPjByccuiqJ6xH8dTJQMcmvfdWi9A2GlanJ93Gjlqv6V7YYkP&nocache=1791441603092
