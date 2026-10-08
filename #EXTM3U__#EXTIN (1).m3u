@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Cartoon_Network_HD%2B_India_logo.png", Cartoon network hd plus 
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cartoon_Network_HD%2B_India_logo.png", Cartoon network hd plus 
 https://prod-linear-media.toffeelive.com/cdn/live/cartoon_network_hd/1080/1080.m3u8?hdntl=Expires=1791513466~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMWVjNmNlMjYtZmRhNy00ODE0LWI0NmEtOTg0NDRkNWVhMjBmIn0~Signature=AVek5_iveMY8IoUrtRkj7Uxmi7oatwnRn55T6RfP5300nae4Ix3dmGNOIUDlSkBDfqbxUv23O5cOIEzRhSx8Yn7e_n8I&nocache=1791427110042
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:2019_Disney_Channel_logo.svg", Disney 
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/2019_Disney_Channel_logo.svg", Disney 
 http://51.75.127.199:3141/disneychannel/index.m3u8
